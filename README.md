@@ -66,6 +66,3 @@ Each task demonstrates a different ML algorithm, dataset, or technique.
 - Scikit-learn
 - Machine Learning Algorithms (SVM, Decision Tree, KNN, Regression, Clustering)
 
-
-```markdown
-![Customer Segmentation Result](screenshots/customer_clusters.png)
